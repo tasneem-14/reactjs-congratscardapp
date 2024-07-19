@@ -8,7 +8,7 @@ const element = (
       />
       <h1 className="card-title">Kiran V</h1>
       <p className="card-description">
-        Vishnu Institute of Computer Education and Technology, Bhimavaram
+       BVRIT
       </p>
       <img
         src="https://assets.ccbp.in/frontend/react-js/congrats-card-watch-img.png"
